@@ -1,0 +1,10 @@
+{
+    "accounts": {},
+    "financial_data": {
+        "roshnibisht084@gmail.com": [
+            {
+                "Type": "Income",
+                "Name": "salary",
+                "Amount": 300000.0,
+                "Category": "Salary",
+                "Date": 
